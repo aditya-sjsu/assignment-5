@@ -4,7 +4,7 @@ This project visualizes the average price of milk (fresh, whole, fortified) per 
 
 ## Sample Output
 
-![Milk Price Visualization](output.png)
+<img src="output.png" alt="Milk Price Visualization" width="100%">
 
 ## Data Source
 
