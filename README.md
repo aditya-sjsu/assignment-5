@@ -2,6 +2,10 @@
 
 This project visualizes the average price of milk (fresh, whole, fortified) per gallon in U.S. cities over time using Google Charts.
 
+## Sample Output
+
+![Milk Price Visualization](output.png)
+
 ## Data Source
 
 The data is sourced from the Federal Reserve Bank of St. Louis Economic Data (FRED):
@@ -42,6 +46,7 @@ http://localhost:8000
 - `APU0000709112.csv` - Data file containing milk price time series
 - `.gitignore` - Git ignore patterns
 - `README.md` - This documentation file
+- `output.png` - Sample visualization output image
 
 ## License
 
