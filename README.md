@@ -43,20 +43,6 @@ http://localhost:8000
 - `.gitignore` - Git ignore patterns
 - `README.md` - This documentation file
 
-## Technologies Used
-
-- HTML5
-- JavaScript
-- Google Charts Library
-- CSV data processing
-- Python (for local server)
-
-## Requirements
-
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Python 3.x (for running local server)
-- Internet connection (for loading Google Charts library)
-
 ## License
 
 This project is open source and available under the MIT License. 
