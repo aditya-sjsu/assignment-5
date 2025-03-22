@@ -4,7 +4,7 @@ This project visualizes the average price of milk (fresh, whole, fortified) per 
 
 ## Output
 
-![Milk Price Time Series Visualization](output.png)
+![Milk Price Time Series Visualization](./output.png)
 
 ## Data Source
 
